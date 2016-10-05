@@ -6,6 +6,6 @@
 |:----------:|:----------|:------------|:-------------|:-------------|:------------|:------------- |:------------------|:----:|:-------:|:-------|
 Correlation | 1 (smokeless tobacco use) | categorical | 1 (lifetime psychiatric disorder) | continuous | NA | NA | 	Correlation between smokeless tobacco use and psychiatric disorder? | Correlation between smokeless tobacco use and psychiatric disorder = 0 | 0.05 | [Psychiatric Correlates of Snuff and Chewing Tobacco Use](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0113196) |
   |||||||||
-  Correlation | 1 (smokeless tobacco use) | categorical | 1 (lifetime psychiatric disorder) | continuous | NA | NA | 	Correlation between smokeless tobacco use and psychiatric disorder? | Correlation between smokeless tobacco use and psychiatric disorder = 0 | 0.05 | [Spatial Memory in Spontaneously Hypertensive Rats (SHR)](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0074660) |
+  ANOVA | 2 (rat types: SHR, WKY) | categorical | 1 (route to locate food pellets in holeboard COGITAT) | continuous | NA | NA | 	Do SHRs show impairment in spatial working memory/reference memory, as compared to WKYs? | Spatial working memory (SHR) >= Spatial working memory (WKY) | 0.05 | [Spatial Memory in Spontaneously Hypertensive Rats (SHR)](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0074660) |
   |||||||||
 
