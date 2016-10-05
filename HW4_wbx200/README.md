@@ -6,3 +6,6 @@
 |:----------:|:----------|:------------|:-------------|:-------------|:------------|:------------- |:------------------|:----:|:-------:|:-------|
 Correlation | 1 (smokeless tobacco use) | categorical | 1 (lifetime psychiatric disorder) | continuous | NA | NA | 	Correlation between smokeless tobacco use and psychiatric disorder? | Correlation between smokeless tobacco use and psychiatric disorder = 0 | 0.05 | [Psychiatric Correlates of Snuff and Chewing Tobacco Use](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0113196) |
   |||||||||
+  Correlation | 1 (smokeless tobacco use) | categorical | 1 (lifetime psychiatric disorder) | continuous | NA | NA | 	Correlation between smokeless tobacco use and psychiatric disorder? | Correlation between smokeless tobacco use and psychiatric disorder = 0 | 0.05 | [Psychiatric Correlates of Snuff and Chewing Tobacco Use](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0113196) |
+  |||||||||
+
