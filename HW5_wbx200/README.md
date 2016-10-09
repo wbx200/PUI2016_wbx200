@@ -9,5 +9,5 @@ amongst exercisers (Significance level = 0.05).<br><br>
 
 <br>4) The rate of IQ increase (measured between the ages of 1 and 4) in children whose mothers smoked when pregnant with them is
 significantly greater than or equal to the rate of IQ increase in children whose mothers did not smoke when pregnant with them
-(Significance level = 0.05).<br>
+(Significance level = 0.05).<br><br>
 <i>H_o: IQ increase_Smokingmothers >= IQ increase_Nonsmokingmothers</i>
