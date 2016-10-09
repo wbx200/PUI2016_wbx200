@@ -6,7 +6,7 @@
 amongst exercisers (Significance level = 0.05).<br><br>
 <i>H_o: BMI Decrease_dieters >= BMI Decrease_exercisers</i><br><br>
 
-<br>2) The percentage of pollsters (measured by Newsweek "Bill Clinton" poll, 05/16/94) who answered "Yes" is significantly greater than or equal to the percentage of pollsters who answered "No" or "Other."<br><br>
+2) The percentage of pollsters (measured by Newsweek "Bill Clinton" poll, 05/16/94) who answered "Yes" is significantly greater than or equal to the percentage of pollsters who answered "No" or "Other."<br><br>
 <i>H_o: Percentage pollsters_yes >= Percentage pollsters_no/other</i><br>
 <br>3) The cessation rate (measured 6 months after patch usage) amongst smokers using a placebo patch is significantly greater than or equal to the cessation rate of smokers using a nicotine patch (Significance level = 0.05).<br><br>
 <i>H_o: Cessation rate_placebopatchers >= Cessation rate_nicotinepatchers</i><br>
