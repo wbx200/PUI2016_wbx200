@@ -1,3 +1,6 @@
+#Assignment 2
+<br>I followed the skeleton notebook as laid out by Prof. Bianco and collaborated closely with Yao Wang.  Yao Wang had provided the majority of the code, and I brought up several points - e.g. the gender equality income line having to take the form of y=x.<br>
+
 #Assignment 3
 <br>1) The decrease in BMI (measured at end of experiment) amongst dieters is significantly greater than or equal to the decrease in BMI
 amongst exercisers (Significance level = 0.05).<br><br>
