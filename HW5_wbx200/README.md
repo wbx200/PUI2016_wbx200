@@ -1,3 +1,6 @@
+#Assignment 1
+<br>I reviewed the solutions to Assignment 3 and 4 as the basis for this Assignment.  I collaborated closely with my group members - Kelsey Reid, Matt Sloane, Marc Toneatto, and Ozgur Akkas for this assignment.  Kelsey and Matt spearheaded the coding efforts.
+
 #Assignment 2
 <br>I followed the skeleton notebook as laid out by Prof. Bianco and collaborated closely with Yao Wang.  Yao Wang had provided the majority of the code, and I brought up several points - e.g. the gender equality income line having to take the form of y=x.<br>
 
