@@ -2,7 +2,7 @@
 <br>I reviewed the solutions to Assignment 3 and 4 for the background into how to first pull the data.  I then collaborated closely with my group members - Kelsey Reid, Matt Sloane, Marc Toneatto, and Ozgur Akkas for this assignment.  Kelsey and Matt spearheaded the coding efforts and were instrumental in explaining the concepts to the other group members.
 
 #Assignment 2
-<br>I followed the skeleton notebook as laid out by Prof. Bianco and collaborated closely with Yao Wang.  Yao Wang had provided the majority of the code, and I brought up several points - e.g. the gender equality income line having to take the form of y=x.<br>
+<br>I followed the skeleton notebook as laid out by Prof. Bianco and collaborated closely with Yao Wang.  Yao Wang had provided the majority of the code, and I brought up several points - e.g. the gender equality income line having to take the form of y=x.  The code that Yao provided me I then shared with my team - Kelsey, Matt, Marc, and Ozgur.  We collectively discussed it to ensure that we understood it.<br>
 
 #Assignment 3
 <br>1) The decrease in BMI (measured at end of experiment) amongst dieters is significantly greater than or equal to the decrease in BMI
