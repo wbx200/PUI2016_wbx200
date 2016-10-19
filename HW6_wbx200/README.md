@@ -7,4 +7,6 @@ We also utilized this academic document to understand the Chi-square value signi
 
 Finally, we followed the skeleton notebook as laid out by Professor Bianco.
 
+#Assignment 2
 
+Please follow this link to our report:
