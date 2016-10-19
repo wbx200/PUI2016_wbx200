@@ -9,4 +9,6 @@ Finally, we followed the skeleton notebook as laid out by Professor Bianco.
 
 #Assignment 2
 
+I did not submit HW 3 and relied on my group's Citibike submission, which I uploaded as a notebook.  As a group, we discussed the Authorea write-up and jointly came to a consensus on the report.
+
 Please follow this link to our report:
