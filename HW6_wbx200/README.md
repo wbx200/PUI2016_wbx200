@@ -11,4 +11,4 @@ Finally, we followed the skeleton notebook as laid out by Professor Bianco.
 
 I did not submit HW 3 and relied on my group's Citibike submission, which I uploaded as a notebook.  As a group, we discussed the Authorea write-up and jointly came to a consensus on the report.
 
-Please follow this link to our report:
+Please follow this link to our report: https://www.authorea.com/users/106219/articles/134338/_show_article?access_token=8Nww4GhkDJi3rmQq1Ec2pw
