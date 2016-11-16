@@ -1,5 +1,5 @@
 #Assignment 1
-I worked with my group - Kelsey Reid, Matt Sloane, and Marc Toneatto.  We started working on the homework during the class session, based 
+I worked with my group - Kelsey Reid, Matt Sloane, Marc Toneatto, and Ozgur Akkas.  We started working on the homework during the class session, based 
 off the skeleton notebook provided.  I referenced Yao Wang's code extensively, and made sure to understand all the concepts as laid out in his notebook for this assignment.
 #Assignment 2
 I peer-reviewed the plots of the two students assigned to me.  I provided comments and feedback and incorporated them into review files -
